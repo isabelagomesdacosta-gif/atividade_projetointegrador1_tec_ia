@@ -2,3 +2,4 @@
 Projeto: Classificação de Compradores de Esteiras.
 Objetivo: Desenvolver um modelo de Machine Learning capaz de prever qual modelo de esteira um cliente pretende adquirir.
 Link do notebook: https://colab.research.google.com/drive/1xW37HMUAtDM0TOUrTRPpOcXTywsDdyMh?usp=sharing
+Fonte do dataset: https://www.kaggle.com/datasets/saurav9786/cardiogoodfitness/data
