@@ -20,6 +20,9 @@ Etapas
 2. Pré-processamento
 3. Treinamento
 4. Avaliação
+5. Otimização
+6. Validação
+7. Avaliação final
 
-Modelo Utilizado
+Modelos Utilizados:
 Gradient Boosting e Decision Tree Classifier
